@@ -24,6 +24,15 @@ namespace _02_Podm_170_Typ_znaku
             Console.WriteLine($"Stisknutá klávesa představuje {typKlavesy}.");
 
             // Konec vašeho kódu
+
+            //druhá možnost - použití char jako čísla
+            if ((znak >= 'A' && znak <= 'Z') || (znak >= 'a' && znak <= 'z'))
+                typKlavesy = "písmeno";
+            else if (znak >= '0' && znak <= '9')
+                typKlavesy = "číslo";
+            else
+                typKlavesy = "speciální znak";
+
         }
     }
 }
