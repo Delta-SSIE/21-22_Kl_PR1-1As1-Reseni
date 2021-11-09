@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_03_While_090_Soucet_cisel_v_intervalu</RootNamespace>
+  </PropertyGroup>
+
+</Project>
