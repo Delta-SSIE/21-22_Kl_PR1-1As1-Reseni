@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_04_For_100_Secti_cisla_na_sudych_pozicich_z_10_cisel</RootNamespace>
+  </PropertyGroup>
+
+</Project>
