@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_05_Pole_110_Nadprumerne_hodnoty</RootNamespace>
+  </PropertyGroup>
+
+</Project>
