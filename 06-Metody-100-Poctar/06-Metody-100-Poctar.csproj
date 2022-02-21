@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_07_2D_pole_030_Maximum</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_06_Metody_100_Poctar</RootNamespace>
   </PropertyGroup>
 
 </Project>
